@@ -16,6 +16,10 @@ library_name: transformers
     <img alt="Chat" src="https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5" style="display: inline-block; vertical-align: middle;"/>
 </a>
 
+## 快速开始
+- AutoDL镜像(上传中) 👉[启动文档预览](deploy/autodl/start.ipynb)<p align="center">
+  <img width="100%" src="deploy/autodl/general_view.png">
+</p>
 ## Introduction
 
 QwQ is the reasoning model of the Qwen series. Compared with conventional instruction-tuned models, QwQ, which is capable of thinking and reasoning, can achieve significantly enhanced performance in downstream tasks, especially hard problems. QwQ-32B is the medium-sized reasoning model, which is capable of achieving competitive performance against state-of-the-art reasoning models, e.g., DeepSeek-R1, o1-mini.
