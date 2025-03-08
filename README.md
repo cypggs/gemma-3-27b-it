@@ -17,7 +17,7 @@ library_name: transformers
 </a>
 
 ## 快速开始
-- AutoDL镜像(上传中) 👉[启动文档预览](deploy/autodl/start.ipynb)<p align="center">
+###  AutoDL镜像[全站首发，一键部署QwQ](https://www.codewithgpu.com/i/jsntcheng/QwQ-32B/Qwen_QwQ-32B_Q4_K_M)<p align="center">
   <img width="100%" src="deploy/autodl/general_view.png">
 </p>
 ## Introduction
